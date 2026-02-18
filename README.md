@@ -1,8 +1,8 @@
 # Landing page for Expert Electric
 
-**Generated**: 2026-02-18 05:54 UTC
-**Lead ID**: 9f7f1159b170
-**Template**: home_services/premium
+**Generated**: 2026-02-18 20:08 UTC
+**Lead ID**: manual_1771445310
+**Template**: home_services/standard
 
 ## View Site
 
